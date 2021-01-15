@@ -1,0 +1,110 @@
+baseURL: 'https://fboucher.com/'
+title: fboucher.com
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: 'English'
+    weight: 1
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 8
+        - name: Projects
+          url: projects
+          weight: 9
+        - name: Blog
+          url: blog/
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: Franck Boucher's personal website
+  # author: Franck Boucher
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  # ShowShareButtons: true
+  # ShowReadingTime: true
+  # disableSpecial1stPost: true
+  # displayFullLangName: true
+  # comments: false
+  images: ['me.jpeg']
+
+  profileMode:
+    enabled: true
+    title: Franck Boucher
+    subtitle: Full Stack Web Developer
+    currentJob: In Extenso
+    currentJobUrl: https://www.inextenso.fr/
+    imageUrl: 'me.jpeg'
+    imageTitle: Franck Boucher
+    # imageWidth: 120
+    # imageHeight: 120
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/franck-boucher'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/franck-boucher/'
+    - name: twitter
+      url: 'https://twitter.com/Franck_Boucher'
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  # assets:
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+# taxonomies:
+#   category: categories
+#   tag: tags
+#   series: series
+disableKinds:
+  - taxonomy
+  - term

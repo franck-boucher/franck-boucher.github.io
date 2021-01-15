@@ -1,0 +1,31 @@
+.entry-meta {
+  color: var(--secondary);
+  font-size: 14px;
+}
+
+.entry-summary {
+  color: var(--primary);
+  margin-top: 8px;
+  font-size: 16px;
+  line-height: 1.6;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.post-entry-custom {
+  padding: 20px 25px;
+}
+
+.project-tags li {
+  display: inline-block;
+  margin-inline-end: 3px;
+  margin-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  color: var(--secondary);
+  font-size: 14px;
+  background: var(--code-bg);
+  border-radius: 4px;
+}

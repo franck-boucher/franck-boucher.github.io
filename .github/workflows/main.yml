@@ -32,6 +32,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Add CNAME file
+        run: echo -n "fboucher.com" > public/CNAME
+
       - name: Push git subdirectory as branch
         uses: s0/git-publish-subdir-action@v2.4.0
         env:

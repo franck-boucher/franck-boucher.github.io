@@ -1,4 +1,4 @@
-baseURL: 'https://fboucher.com/'
+baseURL: "https://fboucher.com/"
 title: fboucher.com
 paginate: 5
 theme: PaperMod
@@ -17,7 +17,7 @@ minify:
 
 languages:
   en:
-    languageName: 'English'
+    languageName: "English"
     weight: 1
     menu:
       main:
@@ -27,9 +27,6 @@ languages:
         - name: Projects
           url: projects
           weight: 9
-        - name: Blog
-          url: blog/
-          weight: 10
 
 outputs:
   home:
@@ -50,26 +47,26 @@ params:
   # disableSpecial1stPost: true
   # displayFullLangName: true
   # comments: false
-  images: ['me.jpeg']
+  images: ["me.jpeg"]
 
   profileMode:
     enabled: true
     title: Franck Boucher
     subtitle: Full Stack Web Developer
-    currentJob: In Extenso
-    currentJobUrl: https://www.inextenso.fr/
-    imageUrl: 'me.jpeg'
+    currentJob: Fulll
+    currentJobUrl: https://www.fulll.fr/
+    imageUrl: "me.jpeg"
     imageTitle: Franck Boucher
     # imageWidth: 120
     # imageHeight: 120
 
   socialIcons:
     - name: github
-      url: 'https://github.com/franck-boucher'
+      url: "https://github.com/franck-boucher"
     - name: linkedin
-      url: 'https://www.linkedin.com/in/franck-boucher/'
+      url: "https://www.linkedin.com/in/franck-boucher/"
     - name: twitter
-      url: 'https://twitter.com/Franck_Boucher'
+      url: "https://twitter.com/Franck_Boucher"
 
   # label:
   #     text: "Home"

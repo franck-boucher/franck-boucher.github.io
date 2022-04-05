@@ -52,7 +52,7 @@ params:
   profileMode:
     enabled: true
     title: Franck Boucher
-    subtitle: Full Stack Web Developer
+    subtitle: Full Stack Engineer
     currentJob: Fulll
     currentJobUrl: https://www.fulll.fr/
     imageUrl: "me.jpeg"

@@ -6,6 +6,24 @@
     <description>Recent content in Projects on fboucher.com</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://fboucher.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mantine Stack</title>
+      <link>https://fboucher.com/projects/mantine-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fboucher.com/projects/mantine-stack/</guid>
+      <description>Open source Remix starter kit based on the Remix Indie Stack and powered by Mantine</description>
+    </item>
+    
+    <item>
+      <title>Portail RH</title>
+      <link>https://fboucher.com/projects/portail-rh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fboucher.com/projects/portail-rh/</guid>
+      <description>Full Stack Engineer on a Human Resource Management Software for accountants and their companies, and Developer Advocate for Fulll&amp;rsquo;s frontend developers.</description>
+    </item>
+    
+    <item>
       <title>Castres Management System</title>
       <link>https://fboucher.com/projects/castres-management-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,7 +38,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fboucher.com/projects/inspire-api/</guid>
-      <description>API that aggregates, contextualizes and personalizes content for in-flight, destination or airport services for Air France and KLM.</description>
+      <description>API that aggregates, contextualizes and personalizes content for in-flight, destination and airport services for Air France and KLM.</description>
     </item>
     
     <item>
@@ -47,7 +65,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fboucher.com/projects/stela-3/</guid>
-      <description>Third-party transmission application for the french local authorities official document validations.</description>
+      <description>Third-party transmission application for official document validations of the french local authorities.</description>
     </item>
     
     <item>
@@ -56,7 +74,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fboucher.com/projects/annuaire-uca/</guid>
-      <description>Semantic Web directory applicaiton that aggregates the contacts and organizations of the members of Université Côte d’Azur group.</description>
+      <description>Semantic Web directory applicaiton that aggregates the contacts and organizations of the members of the Université Côte d’Azur group.</description>
     </item>
     
     <item>

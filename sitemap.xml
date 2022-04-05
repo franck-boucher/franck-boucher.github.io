@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fboucher.com/projects/mantine-stack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fboucher.com/projects/portail-rh/</loc>
+  </url>
+  
+  <url>
     <loc>https://fboucher.com/projects/castres-management-system/</loc>
   </url>
   
@@ -35,15 +43,22 @@
   </url>
   
   <url>
-    <loc>https://fboucher.com/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://fboucher.com/blog/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fboucher.com/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fboucher.com/blog/why-this-website/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fboucher.com/about/</loc>
   </url>
   
   <url>

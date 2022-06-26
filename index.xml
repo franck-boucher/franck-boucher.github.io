@@ -123,14 +123,14 @@
     </item>
     
     <item>
-      <title>About me</title>
+      <title>Hi, I am Franck 👋</title>
       <link>https://fboucher.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fboucher.com/about/</guid>
-      <description>Hi I am Franck, a web developer.
-I am in the web development because it evolves fast and there is so much to learn. I keep myself up to date with the new trends and technologies, but I know how to put aside my eagerness to make wise decisions for companies and their real use cases.
-I studied computer science at Nice Sophia-Antipolis University and speaks English and French. I love building tech from PCs to mechanical keyboards, and PC gaming.</description>
+      <description>I am a web developer and I live in France 🇫🇷 🥖
+About me I began to develop in 2010 for no particular reason but the curiosity to know how a software is built and find out if I could build any too.
+In 2014, it was pretty clear I was having too much fun building web pages to specialize myself in something else than web development, so I did. And here I am, more than ten years later, still passionate about it 🚀.</description>
     </item>
     
   </channel>

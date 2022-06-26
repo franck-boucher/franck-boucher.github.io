@@ -29,3 +29,21 @@
   background: var(--code-bg);
   border-radius: 4px;
 }
+
+span.project-icons {
+  margin-left: 0.5rem;
+}
+
+span.project-icons svg {
+  height: 20px;
+  width: 20px
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.color-secondary {
+  color: var(--secondary);
+}

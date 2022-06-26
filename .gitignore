@@ -1,6 +1,9 @@
 # Hugo default output directory
 /public
 
+.hugo_build.lock
+.vscode
+
 ## OS Files
 # Windows
 Thumbs.db

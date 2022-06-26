@@ -1,6 +1,7 @@
 ---
 title: 'IT Service Management software'
-weight: 10
+weight: 111
 summary: 'The first application that I developed, an IT Service Management software for a start-up company I worked for as an intern.'
-tags: ['PHP', 'MySQL', 'jQuery', 'HTML', 'CSS']
+year: 2012
+tags: ['PHP 5', 'MySQL', 'jQuery', 'HTML', 'CSS']
 ---

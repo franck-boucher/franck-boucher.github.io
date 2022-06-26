@@ -6,6 +6,24 @@
     <description>Recent content in Projects on fboucher.com</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://fboucher.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>React Router 6.4 talk</title>
+      <link>https://fboucher.com/projects/react-router-6.4-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fboucher.com/projects/react-router-6.4-talk/</guid>
+      <description>I gave a talk at my company about the benefits of building a React CSR app with React Router v6.4. Links of the demos in the slides.</description>
+    </item>
+    
+    <item>
+      <title>simple-expect</title>
+      <link>https://fboucher.com/projects/simple-expect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fboucher.com/projects/simple-expect/</guid>
+      <description>A simple Jest inspired Deno library that asserts the return value of a function given some parameters and console.log the result. I use it to easely test my LeetCode exercices.</description>
+    </item>
+    
+    <item>
       <title>Mantine Stack</title>
       <link>https://fboucher.com/projects/mantine-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,7 +83,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fboucher.com/projects/stela-3/</guid>
-      <description>Third-party transmission application for official document validations of the french local authorities.</description>
+      <description>New version of Stela 2 built with modern technologies and a microservice architecture.</description>
     </item>
     
     <item>
@@ -75,6 +93,15 @@
       
       <guid>https://fboucher.com/projects/annuaire-uca/</guid>
       <description>Semantic Web directory applicaiton that aggregates the contacts and organizations of the members of the Université Côte d’Azur group.</description>
+    </item>
+    
+    <item>
+      <title>Stela 2</title>
+      <link>https://fboucher.com/projects/stela-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fboucher.com/projects/stela-2/</guid>
+      <description>Third-party transmission application for official document validations of the french local authorities.</description>
     </item>
     
     <item>

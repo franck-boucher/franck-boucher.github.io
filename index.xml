@@ -6,6 +6,15 @@
     <description>Recent content on fboucher.com</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://fboucher.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Poker Planning Pokemon</title>
+      <link>https://fboucher.com/projects/poker-planning-pokemon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fboucher.com/projects/poker-planning-pokemon/</guid>
+      <description>An app that helps agile teams do poker plannings with some random Pokemons.</description>
+    </item>
+    
+    <item>
       <title>React Router 6.4 talk</title>
       <link>https://fboucher.com/projects/react-router-6.4-talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
